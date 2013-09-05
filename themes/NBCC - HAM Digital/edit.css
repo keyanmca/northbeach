@@ -1,0 +1,8 @@
+td {
+display: inline-block;
+width: 100%;
+height: 10px;
+border: 10px solid red;
+color: #fff;
+line-height: 10px;
+}
